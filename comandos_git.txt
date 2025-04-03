@@ -1,0 +1,4 @@
+giy init . -> cria um repo git na pasta atual
+git status -> mostra o status do trabalho(de cada arquivo
+git add nome_arquivo -> adiciona arquivo para commit
+git commit -m "mensagem" -> faz commit do que estava pra ser commitado

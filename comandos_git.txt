@@ -3,3 +3,10 @@ git status -> mostra o status do trabalho(de cada arquivo
 git add nome_arquivo -> adiciona arquivo para commit
 git commit -m "mensagem" -> faz commit do que estava pra ser commitado
 git log                                  -> mostra todo histórico de commit
+
+dfsdfsd
+dfsdfddsfdds
+dsfsdfdsfsdfds
+fdsfdsfsd
+dsdds
+ddsffffffffffdsfds

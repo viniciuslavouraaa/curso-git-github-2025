@@ -11,3 +11,5 @@ fdsfsdfdsfs
 dfsdfsdf f
 sddsfdsfdsfdsdfsdgit
 asdasdasdas
+
+# Mais comandos estranhos

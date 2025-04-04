@@ -10,4 +10,3 @@ esse arquivo contém informações adicionais para git
 fdsfsdfdsfs
 dfsdfsdf f
 sddsfdsfdsfdsdfsdgit
->>>>>>> secundaria

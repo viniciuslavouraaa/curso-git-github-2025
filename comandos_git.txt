@@ -1,8 +1,8 @@
-giy init . -> cria um repo git na pasta atual
-git status -> mostra o status do trabalho(de cada arquivo
-git add nome_arquivo -> adiciona arquivo para commit
-git commit -m "mensagem" -> faz commit do que estava pra ser commitado
-git log                                  -> mostra todo histórico de commit
+giy init . 			   	    -> Cria um repo git na pasta atual
+git status			  	    -> Mostra o status do trabalho(de cada arquivo
+git add nome_arquivo 	    -> Adiciona arquivo para commit
+git commit -m "mensagem" -> Faz commit do que estava pra ser commitado
+git log                                  -> Mostra todo histórico de commit
 
 dfsdfsd
 dfsdfddsfdds

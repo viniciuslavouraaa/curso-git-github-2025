@@ -65,3 +65,4 @@ Pessoas participantes:
 - Tales
 - Téo Calvo
 - Vinicius Lavoura
+- Pedro Henrique
